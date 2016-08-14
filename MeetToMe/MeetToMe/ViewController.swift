@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  ViewController.swift
 //  MeetToMe
 //
 //  Created by 茂木優貴 on 2016/08/14.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

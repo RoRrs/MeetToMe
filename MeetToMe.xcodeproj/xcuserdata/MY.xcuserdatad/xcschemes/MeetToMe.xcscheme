@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FD30DD41D5F8D05004DBCA7"
+               BlueprintIdentifier = "0FD30E101D602579004DBCA7"
                BuildableName = "MeetToMe.app"
                BlueprintName = "MeetToMe"
                ReferencedContainer = "container:MeetToMe.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FD30DEA1D5F8D05004DBCA7"
+               BlueprintIdentifier = "0FD30E241D60257A004DBCA7"
                BuildableName = "MeetToMeTests.xctest"
                BlueprintName = "MeetToMeTests"
                ReferencedContainer = "container:MeetToMe.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FD30DF51D5F8D05004DBCA7"
+               BlueprintIdentifier = "0FD30E2F1D60257A004DBCA7"
                BuildableName = "MeetToMeUITests.xctest"
                BlueprintName = "MeetToMeUITests"
                ReferencedContainer = "container:MeetToMe.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD30DD41D5F8D05004DBCA7"
+            BlueprintIdentifier = "0FD30E101D602579004DBCA7"
             BuildableName = "MeetToMe.app"
             BlueprintName = "MeetToMe"
             ReferencedContainer = "container:MeetToMe.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD30DD41D5F8D05004DBCA7"
+            BlueprintIdentifier = "0FD30E101D602579004DBCA7"
             BuildableName = "MeetToMe.app"
             BlueprintName = "MeetToMe"
             ReferencedContainer = "container:MeetToMe.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD30DD41D5F8D05004DBCA7"
+            BlueprintIdentifier = "0FD30E101D602579004DBCA7"
             BuildableName = "MeetToMe.app"
             BlueprintName = "MeetToMe"
             ReferencedContainer = "container:MeetToMe.xcodeproj">
